@@ -44,7 +44,6 @@ public class CommandWeek3FGifford {
 		remoteControl.onButtonWasPushed(4); //Testing. Nothing should happen for slot 4, it is still the NoCommand object
 		remoteControl.offButtonWasPushed(4); //Testing. Nothing should happen for slot 4, it is still the NoCommand object
 
-
 	}
 
 }
